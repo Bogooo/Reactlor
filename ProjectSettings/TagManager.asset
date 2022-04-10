@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Scor
+  - Character
+  - Efects
+  - Panel
+  - Text
+  - Loading
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 2509928589
+    locked: 0
+  - name: Scor
+    uniqueID: 3859067559
+    locked: 0
+  - name: Panel
+    uniqueID: 2268994849
+    locked: 0
+  - name: Text
+    uniqueID: 1307506735
+    locked: 0
+  - name: Efects
+    uniqueID: 3692228985
+    locked: 0
+  - name: Loading
+    uniqueID: 1903712505
+    locked: 0
